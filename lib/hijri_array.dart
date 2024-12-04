@@ -16,16 +16,16 @@ const Map<int, String> monthNames = {
 const Map<int, String> monthShortNames = {
   1: 'Muh',
   2: 'Saf',
-  3: 'Rab1',
-  4: 'Rab2',
-  5: 'Jum1',
-  6: 'Jum2',
+  3: 'Rab I',
+  4: 'Rab II',
+  5: 'Jum I',
+  6: 'Jum II',
   7: 'Raj',
   8: 'Sha\'',
   9: 'Ram',
   10: 'Shaw',
-  11: 'DhuQ',
-  12: 'DhuH'
+  11: 'Dhul\'-Q',
+  12: 'Dhul\'-H'
 };
 
 const Map<int, String> arMonthNames = {
